@@ -26,4 +26,3 @@ Suggests: Rsubread, rGREAT, ChIPseeker, scatterplot3d, plotly, destiny, Rtsne, u
         TxDb.Hsapiens.UCSC.hg38.knownGene, org.Dm.eg.db, org.Hs.eg.db,
         knitr, rmarkdown, BiocStyle, tibble
 VignetteBuilder: knitr
-NeedsCompilation: no
